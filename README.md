@@ -12,7 +12,7 @@ The cost of squirrel surfboard is $150.00 because of the meterial and extra equi
 A menu page will display all instructions that user can select in the beginning.
 User can purchase items, check out shopping cart and view total money amount by giving different commands.
 When user is at purchase page, only one purchase is allowed at a time.
-If user wants to place multiple orders, new purchase command is needed.
+If user wants to place multiple orders, new purchase command is required.
 However, user can view all selected items in the dislay purchase page.
 As proceed, user can continue shopping or go to checkout page to see total money due.
 In the checkout page, user have access to multiple orsers' details of quantity and money amount.
