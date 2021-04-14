@@ -14,8 +14,8 @@ User can purchase items, check out shopping cart and view total money amount by 
 When user is at purchase page, only one purchase is allowed at a time.
 If user wants to place multiple orders, new purchase command is required.
 However, user can view all selected items in the display purchase page.
-As proceed, user can continue shopping or go to checkout page to see total money due.
+As it proceeds, user can continue shopping or go to checkout page to see total money due.
 In the checkout page, user have access to multiple orsers' details of quantity and money amount.
 
-User can also quit the purchase any time by giving quit command.
+User can also quit the purchase any time by giving a quit command.
 The system would stop excution and exit.
