@@ -10,7 +10,7 @@ The cost of one small surfboard is $175.00, one medium is $190.00, one large is 
 The cost of squirrel surfboard is $150.00 because of the meterial and extra equipments come with it.
 
 A menu page will display all instructions that user can select in the beginning.
-User can purchase items, check out shopping cart and view total money amount by giving different command.
+User can purchase items, check out shopping cart and view total money amount by giving different commands.
 When user is at purchase page, only one purchase is allowed at a time.
 If user wants to place multiple orders, new purchase command is needed.
 However, user can view all selected items in the dislay purchase page.
